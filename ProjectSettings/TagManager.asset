@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Enemy
   - Damageable
+  - On
+  - Off
+  - right
+  - left
   layers:
   - Default
   - TransparentFX
@@ -13,7 +17,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Cube
   - 
   - 
   - 
